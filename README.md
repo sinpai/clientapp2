@@ -1,4 +1,4 @@
-## Angular Clientapp Easycode
+## Angular Clientapp Easycode HW6
 
 #### Published at: 
-https://epic-stallman-204380.netlify.com
+https://sharp-mcclintock-f3ab71.netlify.com
