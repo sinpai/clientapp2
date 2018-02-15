@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { Client } from '../../models/client';
+import { Client } from "../../models/Client";
 import { ClientService } from '../../services/client.service';
 import { FlashMessagesService } from 'angular2-flash-messages';
 import { ActivatedRoute, Router } from '@angular/router';
